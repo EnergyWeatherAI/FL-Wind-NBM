@@ -1,0 +1,17 @@
+https://zenodo.org/record/5946808/files/Penmanshiel_WT_dataSignalMapping.xlsx
+https://zenodo.org/record/5946808/files/Penmanshiel_SCADA_2018_WT01-10_3113.zip
+https://zenodo.org/record/5946808/files/Penmanshiel_SCADA_2017_WT11-15_3115.zip
+https://zenodo.org/record/5946808/files/Penmanshiel_SCADA_2016_WT11-15_3107.zip
+https://zenodo.org/record/5946808/files/Penmanshiel_SCADA_2016_WT01-10_3107.zip
+https://zenodo.org/record/5946808/files/Penmanshiel_SCADA_2017_WT01-10_3114.zip
+https://zenodo.org/record/5946808/files/Penmanshiel_SCADA_2019_WT01-10_3112.zip
+https://zenodo.org/record/5946808/files/Penmanshiel_SCADA_2018_WT11-15_3116.zip
+https://zenodo.org/record/5946808/files/Penmanshiel_SCADA_2019_WT11-15_3117.zip
+https://zenodo.org/record/5946808/files/Penmanshiel_SCADA_2020_WT01-10_3109.zip
+https://zenodo.org/record/5946808/files/Penmanshiel_28.7MW_14xSenvion_MM82.kmz
+https://zenodo.org/record/5946808/files/Penmanshiel_Grid_3153.zip
+https://zenodo.org/record/5946808/files/Penmanshiel_PMU_3152.zip
+https://zenodo.org/record/5946808/files/Penmanshiel_SCADA_2020_WT11-15_3118.zip
+https://zenodo.org/record/5946808/files/Penmanshiel_SCADA_2021_WT01-10_3108.zip
+https://zenodo.org/record/5946808/files/Penmanshiel_WT_static.csv
+https://zenodo.org/record/5946808/files/Penmanshiel_SCADA_2021_WT11-15_3108.zip

@@ -1,0 +1,11 @@
+https://zenodo.org/record/5841834/files/Kelmarsh_SCADA_2019_3085.zip
+https://zenodo.org/record/5841834/files/Kelmarsh_WT_static.csv
+https://zenodo.org/record/5841834/files/Kelmarsh_SCADA_2016_3082.zip
+https://zenodo.org/record/5841834/files/Kelmarsh_SCADA_2017_3083.zip
+https://zenodo.org/record/5841834/files/Kelmarsh_SCADA_2018_3084.zip
+https://zenodo.org/record/5841834/files/Kelmarsh_SCADA_2020_3086.zip
+https://zenodo.org/record/5841834/files/Kelmarsh_12.3MW_6xSenvion_MM92.kmz
+https://zenodo.org/record/5841834/files/Kelmarsh_WT_dataSignalMapping.csv
+https://zenodo.org/record/5841834/files/Kelmarsh_Grid_3088.zip
+https://zenodo.org/record/5841834/files/Kelmarsh_PMU_3089.zip
+https://zenodo.org/record/5841834/files/Kelmarsh_SCADA_2021_3087.zip
