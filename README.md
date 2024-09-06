@@ -1,6 +1,8 @@
 # Federated Learning for wind turbine condition monitoring. 
 
 This project evaluates the effectiveness of Federated Learning in improving model performances compared to local turbine training while preserving the privacy of the data by not having to share the data of individual turbines. This code was developed by Albin Grataloup https://github.com/AlbinGr/
+
+Official implementation for Wind turbine condition http://arxiv.org/abs/2409.03672
 ## Requirement 
 
 Please install the packages in requirements.txt
